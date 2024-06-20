@@ -7,9 +7,9 @@ Saya memiliki minat yang mendalam dalam pengembangan website dan telah memperole
 
 ## Terhubung dengan Saya
 Jika Anda tertarik untuk berkenalan lebih lanjut atau ingin berdiskusi mengenai pengembangan web, saya akan sangat senang! Anda dapat menghubungi saya melalui:
-- LinkedIn: [Syahrul Amri](https://linkedin.com/in/syahrul-amri-1b8338197/)
-- Twitter: [@syahrul_amri](https://twitter.com/syahrul_amri)
-- Email: syahrul.amri@example.com
+- <a href="https://linkedin.com/in/syahrul-amri-1b8338197/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- <a href="https://instagram.com/syahrul_amri"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+- Email: <a href="mailto:syahrul.amri@mhs.unram.ac.id"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Statistik GitHub Saya
 <p align="left">
